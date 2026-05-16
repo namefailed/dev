@@ -1,2 +1,5 @@
 # Ignore namefailed.github.io - it has its own git repo
 namefailed.github.io/
+
+# Ignore p5.js - it has its own git repo
+p5.js/
