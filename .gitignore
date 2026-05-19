@@ -3,3 +3,6 @@ namefailed.github.io/
 
 # Ignore p5.js - it has its own git repo
 p5.js/
+
+# Ignore phoneme - it has its own git repo
+phoneme/
