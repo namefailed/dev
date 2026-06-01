@@ -1,0 +1,3 @@
+[submodule "CodeMechanic-Bot"]
+	path = CodeMechanic-Bot
+	url = git@github.com:namefailed/CodeMechanic-Bot.git
